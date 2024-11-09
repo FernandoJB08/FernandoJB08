@@ -1,11 +1,11 @@
-## Hola, soy Fernando Jiménez Barrera 👋. <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+## Hola, soy Fernando Jiménez Barrera 👋. 
 
 ### Ingeniería mecatrónica, FI UNAM.
 
 
-#### - 
+#### - SIAFI UNAM.
 
-#### - 🔭 NASA FanBoY, Astrofotógrafo aficionado. 
+#### - 🔭 NASA FanBoy, Astrofotógrafo aficionado. 
 
 ### - Languajes y Herramientas...
 
