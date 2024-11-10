@@ -1,8 +1,3 @@
-## Hola, soy Fernando Jiménez Barrera 👋. 
-
-### Ingeniería mecatrónica, FI UNAM.
-
-
 <h1 align="center">Hi 👋, I'm Fernando Jiménez Barrera</h1>
 <h3 align="center">🍕 Mexico City. 🦾 Mechatronic engineering, UNAM. 🚀 NASA Fanboy. 🌌 Amateur astrophotographer. SIAFI UNAM</h3>
 
