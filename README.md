@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Jiménez Barrera</h1>
 <h3 align="center">🍕 Mexico City. 🦾 Mechatronic engineering, UNAM. 🚀 NASA Fanboy. 🌌 Amateur astrophotographer. SIAFI UNAM</h3>
 
-- 💼 I’m currently working on **Subastas Ventura as Technical support agent**
+- 💼 I’m currently working on **Asimov Ingeniería as Programmer**
 
 - 🌱 I’m currently learning **backend and frontend**
 
